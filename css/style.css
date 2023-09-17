@@ -1,0 +1,94 @@
+/* start global  */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #000000a8;
+
+}
+
+/* End global  */
+
+/* start media section  */
+
+.media{
+   
+    height: 600px;
+    color: white;
+    background: linear-gradient(to right, #434343, #000000); 
+    
+    border-radius: 20px;
+    margin-left: 20px;
+
+}
+.media-edit{
+    height: 600px;
+    color: white;
+    background: linear-gradient(to right, #000000 , #434343); 
+    
+    border-radius: 20px;
+    margin-left: 20px;
+    font-weight:700;
+}
+.media-created
+{
+    height: 600px;
+    color: white;
+    background: linear-gradient(to bottom, #000000 , #434343); 
+    
+    border-radius: 20px;
+    margin-left: 20px;
+    font-weight:700;
+}
+
+.text-edit{
+    margin-bottom: 10px;
+    margin-top: 10%;
+    font-weight:700;
+}
+.red-text{
+    color: #c00000;
+    font-weight:700;
+}
+.media .img1 {
+    margin-top: 20%;
+    margin-left: 20%;
+    border-radius: 20px;
+}
+.form-edit{
+   
+    border:none;
+}
+.btn-edit{
+    background-color: #c00000;
+    color: #fff;
+    font-weight: bolder;
+}
+
+.creat{
+    text-align:center;
+    margin-top:2%;
+    
+}
+.h2-edit{
+    margin-bottom: 18px;
+}
+
+/* end media section  */
+
+.img-created{
+
+    border-radius: 20px;
+    margin-left: 30%;;
+    margin-bottom: 30px;
+}
+.text-created{
+    text-align: center;
+    font-weight: 700;
+}
+.Successfully{
+    color: greenyellow;
+}
+
